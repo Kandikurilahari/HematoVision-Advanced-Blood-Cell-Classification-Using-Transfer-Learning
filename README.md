@@ -1,0 +1,2 @@
+# HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
+HematoVision is an intelligent blood cell classification system that uses transfer learning with deep neural networks to accurately identify and categorize different types of blood cells from microscopic images. By leveraging pretrained models, it improves diagnostic efficiency, reduces manual effort, and aids in faster detection.
